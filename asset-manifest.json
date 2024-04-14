@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.64267f35.css",
+    "main.js": "./static/js/main.140df9c6.js",
+    "static/media/poster.png": "./static/media/poster.a26fff69f010ac66acbf.png",
+    "static/media/Inter-Regular.ttf": "./static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/choosing.png": "./static/media/choosing.4a6ab0cafcd86ea16cc0.png",
+    "static/media/JosefinSlab-Regular.ttf": "./static/media/JosefinSlab-Regular.15a390e550e878ca99d0.ttf",
+    "static/media/search.svg": "./static/media/search.59dc3e0f9b8054f58d91bbd490b88f52.svg",
+    "index.html": "./index.html",
+    "static/media/close.svg": "./static/media/close.1ded1e99216871d2a3aec0714440eb62.svg",
+    "main.64267f35.css.map": "./static/css/main.64267f35.css.map",
+    "main.140df9c6.js.map": "./static/js/main.140df9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64267f35.css",
+    "static/js/main.140df9c6.js"
+  ]
+}
